@@ -3,9 +3,9 @@ def collision_avoidance():
     # the correct answer is the first dictionary value
     questions: dict[str, list[str]] = {
         "Which statement is true with regard to aircraft converging at approximately the same altitude?": [
-            "An aircraft towing objects has the right of way over all power-driven heaver-than-air-aircraft.",
+            "An aircraft towing objects has the right of way over all power-driven heaver-than-air aircraft.",
             "A jetliner has the right of way over all aircraft.",
-            "An aeroplane has the right of way over all other airacraft which are converging from the left.",
+            "An aeroplane has the right of way over all other aircraft which are converging from the left.",
             "Aeroplanes towing gliders must give way to helicopters.",
         ],
         "When two aircraft are converging at approximately the same altitude": [

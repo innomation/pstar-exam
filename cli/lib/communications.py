@@ -47,7 +47,7 @@ def communications():
         "En route aircraft should, whenever possible, maintain a listening watch for aircraft in distress on": [
             "121.5 on the aircraft receiver.",
             "121.5 during the first 5 minutes of each hour.",
-            "the reeiver mode of the ELT.",
+            "the receiver mode of the ELT.",
             "the voice frequency of the navigation aid in use.",
         ],
         "The specific frequency, distance and altitude within which MF procedures are to be followed are given in the": [
@@ -62,7 +62,7 @@ def communications():
             "aerodrome UNICOM.",
             "closest ATC unit.",
         ],
-        "Pilots operating in VMC and intending to land at aerodromes where no UNICOM exists, should broadcast their intetions on the ATF of": [
+        "Pilots operating in VMC and intending to land at aerodromes where no UNICOM exists, should broadcast their intentions on the ATF of": [
             "123.2 MHz.",
             "121.5 MHz.",
             "122.2 MHz.",

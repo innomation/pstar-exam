@@ -14,7 +14,7 @@ def aerodromes():
             "6 kt.",
             "10 kt.",
         ],
-        "No personal shall operate any vehicle on any part of an uncontrolled airport used for the movement of aircraft, except in accordance with permission from": [
+        "No person shall operate any vehicle on any part of an uncontrolled airport used for the movement of aircraft, except in accordance with permission from": [
             "the operator of the airport.",
             "a federal peace officer.",
             "a qualified flying instructor.",
@@ -32,7 +32,7 @@ def aerodromes():
             "27.",
             "270.",
         ],
-        "Where taxiway holding positions have not been establish, aircraft waiting to enter an active runway should normally hold": [
+        "Where taxiway holding positions have not been established, aircraft waiting to enter an active runway should normally hold": [
             "200 feet from the edge of the runway.",
             "50 feet from the edge of the runway.",
             "150 feet from the edge of the runway.",
