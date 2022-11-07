@@ -39,13 +39,12 @@ def categories():
         "14. Aviation Occurences",
         "15. Practice Exam",
     ]
-    num_columns = 2
 
     while True:
         os.system("clear")
         print("Choose a category:")
         for item in topic_list:
-            print((item).expandtabs(10))
+            print(item)
 
         answer = input("> ")
         print(answer)
